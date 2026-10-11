@@ -1,0 +1,12 @@
+{
+  "name": "network-aco-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test scripts/solver.test.mjs",
+    "benchmark": "node scripts/benchmark.mjs"
+  }
+}

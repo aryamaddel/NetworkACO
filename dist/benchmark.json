@@ -1,0 +1,131 @@
+{
+  "kind": "Recorded held-out experiment",
+  "budget": 2000,
+  "omega": -0.9999,
+  "r": 20,
+  "beta": 2,
+  "alpha": 1,
+  "seedStart": 21,
+  "rows": [
+    {
+      "seed": 21,
+      "standard": 7807,
+      "network": 7791,
+      "recent": 7791
+    },
+    {
+      "seed": 22,
+      "standard": 7690,
+      "network": 7566,
+      "recent": 7791
+    },
+    {
+      "seed": 23,
+      "standard": 7777,
+      "network": 7807,
+      "recent": 7845
+    },
+    {
+      "seed": 24,
+      "standard": 8006,
+      "network": 7823,
+      "recent": 7867
+    },
+    {
+      "seed": 25,
+      "standard": 7823,
+      "network": 7850,
+      "recent": 7978
+    },
+    {
+      "seed": 26,
+      "standard": 7906,
+      "network": 7706,
+      "recent": 7725
+    },
+    {
+      "seed": 27,
+      "standard": 7840,
+      "network": 7674,
+      "recent": 7572
+    },
+    {
+      "seed": 28,
+      "standard": 7675,
+      "network": 7575,
+      "recent": 7679
+    },
+    {
+      "seed": 29,
+      "standard": 7663,
+      "network": 7674,
+      "recent": 7697
+    },
+    {
+      "seed": 30,
+      "standard": 7548,
+      "network": 7758,
+      "recent": 7832
+    },
+    {
+      "seed": 31,
+      "standard": 7857,
+      "network": 7725,
+      "recent": 7829
+    },
+    {
+      "seed": 32,
+      "standard": 8029,
+      "network": 7833,
+      "recent": 7662
+    },
+    {
+      "seed": 33,
+      "standard": 7757,
+      "network": 7854,
+      "recent": 7791
+    },
+    {
+      "seed": 34,
+      "standard": 8007,
+      "network": 7948,
+      "recent": 8074
+    },
+    {
+      "seed": 35,
+      "standard": 7906,
+      "network": 7930,
+      "recent": 7837
+    },
+    {
+      "seed": 36,
+      "standard": 7759,
+      "network": 7851,
+      "recent": 7786
+    },
+    {
+      "seed": 37,
+      "standard": 7657,
+      "network": 7680,
+      "recent": 7654
+    },
+    {
+      "seed": 38,
+      "standard": 7796,
+      "network": 7871,
+      "recent": 7820
+    },
+    {
+      "seed": 39,
+      "standard": 7818,
+      "network": 7900,
+      "recent": 7800
+    },
+    {
+      "seed": 40,
+      "standard": 7697,
+      "network": 7680,
+      "recent": 7663
+    }
+  ]
+}
